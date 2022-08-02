@@ -1,11 +1,5 @@
 Hi 👋 My name is Ben Lin
 ========================
-
-Composer, Musician, Web Developer.
-----------------------------------
-
-Crafting quality and intuitively coded applications.
-
 * 🌍  I'm based in Atlanta, Georgia
 * ✉️  You can contact me at [blin7.webdev@gmail.com](mailto:blin7.webdev@gmail.com)
 * 🚀  I'm currently working on [blogme-v2](http://github.com/yogs0ddhoth/blogme-v2)
