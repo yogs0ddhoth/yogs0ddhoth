@@ -3,7 +3,7 @@ Hi 👋 My name is Ben Lin
 * 🌍  I'm based in Atlanta, Georgia
 * ✉️  You can contact me at [blin7.webdev@gmail.com](mailto:blin7.webdev@gmail.com)
 * 🚀  I'm currently working on [blogme-v2](http://github.com/yogs0ddhoth/blogme-v2)
-* 🧠  I'm learning Python, Next.js, and Rust
+* 🧠  I'm learning Python, Angular, and Rust
 * 🤝  I'm open to collaborating on anything, software or music
 
 ### Skills
