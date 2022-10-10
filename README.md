@@ -7,7 +7,7 @@ I compose software, and design music
 * 🌍  I'm based in Atlanta, Georgia
 * ✉️  You can contact me at [blin7.webdev@gmail.com](mailto:blin7.webdev@gmail.com)
 * 🚀  I just completed [blogme-v2](http://github.com/yogs0ddhoth/blogme-v2)!
-* 🧠  I'm learning Java, Angular, and Rust
+* 🧠  I'm learning Rust, Angular, and Java
 * 🤝  I'm open to collaborating on anything, software or music
 
 ### Skills
