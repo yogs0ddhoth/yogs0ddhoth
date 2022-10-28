@@ -1,7 +1,7 @@
 Hi 👋 My name is Ben Lin
 ========================
 
-I compose software, and design music
+I compose software, and develop music
 ------------------------------------
 
 * 🌍  I'm based in Atlanta, Georgia
