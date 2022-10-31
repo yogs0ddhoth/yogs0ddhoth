@@ -42,21 +42,3 @@ I compose software, and develop music
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/yogs0ddhoth" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ben-lin-b70a79227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/yogs0ddhoth"><img src="https://github-readme-stats.vercel.app/api?username=yogs0ddhoth&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&show_icons=true" alt="yogs0ddhoth's GitHub stats" /></a>
-
-<a href="http://www.github.com/yogs0ddhoth"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yogs0ddhoth&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/yogs0ddhoth"><img src="https://activity-graph.herokuapp.com/graph?username=yogs0ddhoth&bg_color=0f172a&color=ffffff&line=10b981&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/yogs0ddhoth/blogme-v2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yogs0ddhoth&repo=blogme-v2&title_color=14b8a6&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/yogs0ddhoth/Quizmaster" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yogs0ddhoth&repo=Quizmaster&title_color=14b8a6&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/yogs0ddhoth/Gym-Diary" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yogs0ddhoth&repo=Gym-Diary&title_color=14b8a6&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/yogs0ddhoth/cinematic-film-finder" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yogs0ddhoth&repo=cinematic-film-finder&title_color=14b8a6&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
