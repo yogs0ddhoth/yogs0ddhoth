@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ben Lin
 ===============================================================================================================================
 
-I compose software, and design music
+I compose software, and develop music
 ------------------------------------
 
 * 🌍  I'm based in Atlanta, Georgia
