@@ -7,7 +7,7 @@ I compose software, and develop music
 * 🌍  I'm based in Atlanta, Georgia
 * ✉️  You can contact me at [blin7.webdev@gmail.com](mailto:blin7.webdev@gmail.com)
 * 🚀  I'm currently working on [Cinematic\_v2](http://github.com/yogs0ddhoth/Cinematic_v2)
-* 🧠  I'm learning Nest.js and Apollo Federation
+* 🧠  I'm learning AWS 
 * 🤝  I'm open to collaborating on anything, software or music
 
 ### Skills
